@@ -8,5 +8,4 @@ add_up = function(a,b){
 }
 
 
-# test the function
-add_up(2,3)
+
