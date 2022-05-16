@@ -2,7 +2,10 @@
 ### test function
 
 add_up = function(a,b){
-  cat("First summand: ", a)
-  cat("Second summand: ", b)
-  return(cat("Sum =", a + b))
+  cat("\n First summand: ", a)
+  cat("\n Second summand: ", b)
+  return(cat("\n Sum =", a + b))
 }
+
+
+add_up(2,3)
