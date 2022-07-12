@@ -4,7 +4,7 @@
 add_up = function(a,b){
   cat("First summand: ", a)
   cat("Second summand: ", b)
-  return(cat("Result =", a + b))
+  return(cat("Sum is equal to: ", a + b))
 }
 
 
