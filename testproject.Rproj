@@ -17,3 +17,4 @@ StripTrailingWhitespace: Yes
 LineEndingConversion: Posix
 
 BuildType: Makefile
+MakefilePath: D:/J/github_homeoffice_access/testproject
