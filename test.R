@@ -9,4 +9,7 @@ add_up = function(a,b){
 
 
 # test the function
-add_up(2,3)
+outcome = add_up(2,3)
+
+# print output
+print(outcome)
