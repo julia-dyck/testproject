@@ -9,7 +9,7 @@ outcome.csv: input.csv test.R
 all: outcome.RData outcome.csv
 
 
-# in the terminal:
+# in the RStudio terminal:
 # run "make" to generate first target or
 #     "make outcome.csv" or
 #     "make outcome.RData" to generate a specific target or
